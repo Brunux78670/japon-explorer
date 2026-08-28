@@ -1,0 +1,3 @@
+<x-layouts.app title="Confidentialité — Japon Explorer" description="Politique de confidentialité de Japon Explorer.">
+    <section class="mx-auto max-w-3xl px-4 py-16 sm:px-6 lg:px-8"><p class="eyebrow">Vie privée</p><h1 class="mt-3 font-display text-4xl font-black text-white">Confidentialité</h1><div class="prose-japan mt-8"><h2>Favoris locaux</h2><p>Dans cette version, les favoris des visiteurs sont stockés uniquement dans le stockage local du navigateur. Ils ne sont pas envoyés vers un compte serveur.</p><h2>Cookies et sessions</h2><p>Laravel peut utiliser un cookie de session technique pour le fonctionnement sécurisé de l’application. Aucun suivi publicitaire n’est prévu par défaut.</p></div></section>
+</x-layouts.app>

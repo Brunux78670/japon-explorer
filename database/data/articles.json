@@ -1,0 +1,730 @@
+[
+  {
+    "legacy_id": "tokyo",
+    "legacy_url": "/voyage.html#tokyo",
+    "category": "voyage",
+    "title": "Tokyo : mégalopole aux mille visages",
+    "slug": "tokyo",
+    "excerpt": "Quartiers électriques, sanctuaires, jardins et panoramas : une première lecture de Tokyo.",
+    "body": "Quartiers électriques, sanctuaires, jardins et panoramas : une première lecture de Tokyo.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "tokyo",
+      "shibuya",
+      "shinjuku",
+      "akihabara"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Voyage",
+    "is_featured": true,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "kyoto",
+    "legacy_url": "/voyage.html#kyoto",
+    "category": "voyage",
+    "title": "Kyoto : temples, jardins et ruelles",
+    "slug": "kyoto",
+    "excerpt": "Ancienne capitale impériale, Kyoto concentre temples, machiya et traditions vivantes.",
+    "body": "Ancienne capitale impériale, Kyoto concentre temples, machiya et traditions vivantes.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "kyoto",
+      "temples",
+      "gion",
+      "jardins"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Voyage",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "osaka",
+    "legacy_url": "/voyage.html#osaka",
+    "category": "voyage",
+    "title": "Osaka : énergie et cuisine de rue",
+    "slug": "osaka",
+    "excerpt": "Une ville chaleureuse connue pour Dōtonbori, son château et sa culture gourmande.",
+    "body": "Une ville chaleureuse connue pour Dōtonbori, son château et sa culture gourmande.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "osaka",
+      "dotonbori",
+      "street food"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Voyage",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "hokkaido",
+    "legacy_url": "/voyage.html#hokkaido",
+    "category": "voyage",
+    "title": "Hokkaidō : grands espaces du Nord",
+    "slug": "hokkaido",
+    "excerpt": "Nature, neige, volcans, lacs et gastronomie distinguent la grande île du Nord.",
+    "body": "Nature, neige, volcans, lacs et gastronomie distinguent la grande île du Nord.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "hokkaido",
+      "sapporo",
+      "nature",
+      "neige"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Voyage",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "okinawa",
+    "legacy_url": "/voyage.html#okinawa",
+    "category": "voyage",
+    "title": "Okinawa : archipel subtropical",
+    "slug": "okinawa",
+    "excerpt": "Plages, récifs, culture ryūkyū et histoire singulière au sud du Japon.",
+    "body": "Plages, récifs, culture ryūkyū et histoire singulière au sud du Japon.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "okinawa",
+      "ryukyu",
+      "plage",
+      "naha"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Voyage",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "train",
+    "legacy_url": "/voyage.html#transport",
+    "category": "voyage",
+    "title": "Se déplacer en train",
+    "slug": "train",
+    "excerpt": "Comprendre Shinkansen, trains urbains, cartes IC et bonnes pratiques en gare.",
+    "body": "Comprendre Shinkansen, trains urbains, cartes IC et bonnes pratiques en gare.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "train",
+      "shinkansen",
+      "suica",
+      "pasmo"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Voyage",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "manga",
+    "legacy_url": "/manga-anime.html#manga",
+    "category": "manga-anime",
+    "title": "Comprendre le manga",
+    "slug": "manga",
+    "excerpt": "Formats, publication, lecture et vocabulaire de base pour découvrir le manga japonais.",
+    "body": "Formats, publication, lecture et vocabulaire de base pour découvrir le manga japonais.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "manga",
+      "tankobon",
+      "mangaka"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Manga & Anime",
+    "is_featured": true,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "anime",
+    "legacy_url": "/manga-anime.html#anime",
+    "category": "manga-anime",
+    "title": "Comprendre l’anime",
+    "slug": "anime",
+    "excerpt": "Séries TV, films, OVA et studios : les grands repères de l’animation japonaise.",
+    "body": "Séries TV, films, OVA et studios : les grands repères de l’animation japonaise.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "anime",
+      "animation",
+      "studio"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Manga & Anime",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "shonen",
+    "legacy_url": "/manga-anime.html#demographies",
+    "category": "manga-anime",
+    "title": "Shōnen",
+    "slug": "shonen",
+    "excerpt": "Une catégorie éditoriale souvent tournée vers l’aventure, l’amitié et le dépassement de soi.",
+    "body": "Une catégorie éditoriale souvent tournée vers l’aventure, l’amitié et le dépassement de soi.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "shonen",
+      "aventure",
+      "manga"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Manga & Anime",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "shojo",
+    "legacy_url": "/manga-anime.html#demographies",
+    "category": "manga-anime",
+    "title": "Shōjo",
+    "slug": "shojo",
+    "excerpt": "Une démographie éditoriale aux genres variés, historiquement destinée aux adolescentes.",
+    "body": "Une démographie éditoriale aux genres variés, historiquement destinée aux adolescentes.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "shojo",
+      "romance",
+      "manga"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Manga & Anime",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "seinen",
+    "legacy_url": "/manga-anime.html#demographies",
+    "category": "manga-anime",
+    "title": "Seinen",
+    "slug": "seinen",
+    "excerpt": "Mangas publiés dans des magazines visant principalement un lectorat masculin adulte.",
+    "body": "Mangas publiés dans des magazines visant principalement un lectorat masculin adulte.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "seinen",
+      "adulte",
+      "manga"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Manga & Anime",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "josei",
+    "legacy_url": "/manga-anime.html#demographies",
+    "category": "manga-anime",
+    "title": "Josei",
+    "slug": "josei",
+    "excerpt": "Publications visant principalement un lectorat féminin adulte, avec des thèmes très divers.",
+    "body": "Publications visant principalement un lectorat féminin adulte, avec des thèmes très divers.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "josei",
+      "adulte",
+      "manga"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Manga & Anime",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "mecha",
+    "legacy_url": "/manga-anime.html#genres",
+    "category": "manga-anime",
+    "title": "Mecha",
+    "slug": "mecha",
+    "excerpt": "Robots pilotés, science-fiction et récits politiques : un pan majeur de la pop culture japonaise.",
+    "body": "Robots pilotés, science-fiction et récits politiques : un pan majeur de la pop culture japonaise.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "mecha",
+      "robot",
+      "science-fiction"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Manga & Anime",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "iyashikei",
+    "legacy_url": "/manga-anime.html#genres",
+    "category": "manga-anime",
+    "title": "Iyashikei",
+    "slug": "iyashikei",
+    "excerpt": "Des œuvres contemplatives centrées sur le quotidien, la nature et l’apaisement.",
+    "body": "Des œuvres contemplatives centrées sur le quotidien, la nature et l’apaisement.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "iyashikei",
+      "slice of life",
+      "calme"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Manga & Anime",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "shinto",
+    "legacy_url": "/culture.html#spiritualites",
+    "category": "culture",
+    "title": "Shintō",
+    "slug": "shinto",
+    "excerpt": "Repères sur les sanctuaires, kami, torii et pratiques du shintō au Japon.",
+    "body": "Repères sur les sanctuaires, kami, torii et pratiques du shintō au Japon.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "shinto",
+      "kami",
+      "sanctuaire",
+      "torii"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Culture",
+    "is_featured": true,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "bouddhisme",
+    "legacy_url": "/culture.html#spiritualites",
+    "category": "culture",
+    "title": "Bouddhisme japonais",
+    "slug": "bouddhisme",
+    "excerpt": "Écoles, temples et pratiques qui ont profondément façonné l’histoire culturelle japonaise.",
+    "body": "Écoles, temples et pratiques qui ont profondément façonné l’histoire culturelle japonaise.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "bouddhisme",
+      "temple",
+      "zen"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Culture",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "matsuri",
+    "legacy_url": "/culture.html#traditions",
+    "category": "culture",
+    "title": "Matsuri : fêtes locales",
+    "slug": "matsuri",
+    "excerpt": "Processions, mikoshi, stands et traditions saisonnières rythment les communautés.",
+    "body": "Processions, mikoshi, stands et traditions saisonnières rythment les communautés.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "matsuri",
+      "festival",
+      "mikoshi"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Culture",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "onsen",
+    "legacy_url": "/culture.html#etiquette",
+    "category": "culture",
+    "title": "Onsen : bains thermaux",
+    "slug": "onsen",
+    "excerpt": "Étiquette, nudité, tatouages et gestes essentiels pour profiter des sources chaudes.",
+    "body": "Étiquette, nudité, tatouages et gestes essentiels pour profiter des sources chaudes.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "onsen",
+      "bain",
+      "etiquette"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Culture",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "tea",
+    "legacy_url": "/culture.html#arts",
+    "category": "culture",
+    "title": "Cérémonie du thé",
+    "slug": "tea",
+    "excerpt": "Le chanoyu associe geste, esthétique, hospitalité et attention à l’instant.",
+    "body": "Le chanoyu associe geste, esthétique, hospitalité et attention à l’instant.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "the",
+      "matcha",
+      "chanoyu"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Culture",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "kimono",
+    "legacy_url": "/culture.html#arts",
+    "category": "culture",
+    "title": "Kimono et yukata",
+    "slug": "kimono",
+    "excerpt": "Deux vêtements emblématiques, avec usages, saisons et niveaux de formalité différents.",
+    "body": "Deux vêtements emblématiques, avec usages, saisons et niveaux de formalité différents.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "kimono",
+      "yukata",
+      "mode"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Culture",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "ramen",
+    "legacy_url": "/cuisine.html#ramen",
+    "category": "cuisine",
+    "title": "Ramen",
+    "slug": "ramen",
+    "excerpt": "Bouillon, tare, nouilles et garnitures : un plat décliné en nombreuses écoles régionales.",
+    "body": "Bouillon, tare, nouilles et garnitures : un plat décliné en nombreuses écoles régionales.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "ramen",
+      "nouilles",
+      "cuisine"
+    ],
+    "image_path": "/images/cuisine.svg",
+    "image_alt": "Illustration de la rubrique Cuisine",
+    "is_featured": true,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "sushi",
+    "legacy_url": "/cuisine.html#sushi",
+    "category": "cuisine",
+    "title": "Sushi",
+    "slug": "sushi",
+    "excerpt": "Nigiri, maki, chirashi : quelques repères pour comprendre ce vaste univers culinaire.",
+    "body": "Nigiri, maki, chirashi : quelques repères pour comprendre ce vaste univers culinaire.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "sushi",
+      "nigiri",
+      "maki"
+    ],
+    "image_path": "/images/cuisine.svg",
+    "image_alt": "Illustration de la rubrique Cuisine",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "okonomiyaki",
+    "legacy_url": "/cuisine.html#okonomiyaki",
+    "category": "cuisine",
+    "title": "Okonomiyaki",
+    "slug": "okonomiyaki",
+    "excerpt": "Galette salée conviviale, notamment associée à Osaka et Hiroshima.",
+    "body": "Galette salée conviviale, notamment associée à Osaka et Hiroshima.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "okonomiyaki",
+      "osaka",
+      "hiroshima"
+    ],
+    "image_path": "/images/cuisine.svg",
+    "image_alt": "Illustration de la rubrique Cuisine",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "takoyaki",
+    "legacy_url": "/cuisine.html#takoyaki",
+    "category": "cuisine",
+    "title": "Takoyaki",
+    "slug": "takoyaki",
+    "excerpt": "Bouchées rondes à base de pâte et de poulpe, icône de la cuisine de rue d’Osaka.",
+    "body": "Bouchées rondes à base de pâte et de poulpe, icône de la cuisine de rue d’Osaka.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "takoyaki",
+      "street food",
+      "osaka"
+    ],
+    "image_path": "/images/cuisine.svg",
+    "image_alt": "Illustration de la rubrique Cuisine",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "wagashi",
+    "legacy_url": "/cuisine.html#wagashi",
+    "category": "cuisine",
+    "title": "Wagashi",
+    "slug": "wagashi",
+    "excerpt": "Pâtisseries traditionnelles inspirées par les saisons, souvent servies avec le thé.",
+    "body": "Pâtisseries traditionnelles inspirées par les saisons, souvent servies avec le thé.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "wagashi",
+      "dessert",
+      "the"
+    ],
+    "image_path": "/images/cuisine.svg",
+    "image_alt": "Illustration de la rubrique Cuisine",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "matcha",
+    "legacy_url": "/cuisine.html#matcha",
+    "category": "cuisine",
+    "title": "Matcha",
+    "slug": "matcha",
+    "excerpt": "Thé vert moulu utilisé dans le chanoyu mais aussi dans de nombreux desserts modernes.",
+    "body": "Thé vert moulu utilisé dans le chanoyu mais aussi dans de nombreux desserts modernes.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "matcha",
+      "the vert",
+      "boisson"
+    ],
+    "image_path": "/images/cuisine.svg",
+    "image_alt": "Illustration de la rubrique Cuisine",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "jomon",
+    "legacy_url": "/histoire.html#jomon",
+    "category": "histoire",
+    "title": "Période Jōmon",
+    "slug": "jomon",
+    "excerpt": "Des communautés de chasseurs-cueilleurs et une céramique parmi les plus anciennes du monde.",
+    "body": "Des communautés de chasseurs-cueilleurs et une céramique parmi les plus anciennes du monde.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "jomon",
+      "prehistoire",
+      "ceramique"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Histoire",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "heian",
+    "legacy_url": "/histoire.html#heian",
+    "category": "histoire",
+    "title": "Époque de Heian",
+    "slug": "heian",
+    "excerpt": "Kyoto impériale, littérature de cour et développement d’une culture aristocratique raffinée.",
+    "body": "Kyoto impériale, littérature de cour et développement d’une culture aristocratique raffinée.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "heian",
+      "kyoto",
+      "genji"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Histoire",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "samurai",
+    "legacy_url": "/histoire.html#samurai",
+    "category": "histoire",
+    "title": "Samouraïs et shogunats",
+    "slug": "samurai",
+    "excerpt": "Émergence de la classe guerrière et gouvernements militaires du Japon médiéval.",
+    "body": "Émergence de la classe guerrière et gouvernements militaires du Japon médiéval.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "samourai",
+      "shogun",
+      "bushi"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Histoire",
+    "is_featured": true,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "edo",
+    "legacy_url": "/histoire.html#edo",
+    "category": "histoire",
+    "title": "Époque d’Edo",
+    "slug": "edo",
+    "excerpt": "Paix Tokugawa, croissance urbaine, ukiyo-e et culture populaire florissante.",
+    "body": "Paix Tokugawa, croissance urbaine, ukiyo-e et culture populaire florissante.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "edo",
+      "tokugawa",
+      "ukiyo-e"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Histoire",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "meiji",
+    "legacy_url": "/histoire.html#meiji",
+    "category": "histoire",
+    "title": "Restauration de Meiji",
+    "slug": "meiji",
+    "excerpt": "Modernisation rapide, industrialisation et transformation des institutions à partir de 1868.",
+    "body": "Modernisation rapide, industrialisation et transformation des institutions à partir de 1868.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "meiji",
+      "1868",
+      "modernisation"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Histoire",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "contemporain",
+    "legacy_url": "/histoire.html#contemporain",
+    "category": "histoire",
+    "title": "Japon contemporain",
+    "slug": "contemporain",
+    "excerpt": "Reconstruction d’après-guerre, haute croissance puis transformations sociales récentes.",
+    "body": "Reconstruction d’après-guerre, haute croissance puis transformations sociales récentes.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "apres-guerre",
+      "croissance",
+      "contemporain"
+    ],
+    "image_path": "/images/kyoto.svg",
+    "image_alt": "Illustration de la rubrique Histoire",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "shinkansen",
+    "legacy_url": "/technologie.html#shinkansen",
+    "category": "technologie",
+    "title": "Shinkansen",
+    "slug": "shinkansen",
+    "excerpt": "Le réseau à grande vitesse japonais est connu pour sa fréquence, sa sécurité et sa ponctualité.",
+    "body": "Le réseau à grande vitesse japonais est connu pour sa fréquence, sa sécurité et sa ponctualité.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "shinkansen",
+      "train",
+      "transport"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Technologie",
+    "is_featured": true,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "robotique",
+    "legacy_url": "/technologie.html#robotique",
+    "category": "technologie",
+    "title": "Robotique japonaise",
+    "slug": "robotique",
+    "excerpt": "Robotique industrielle, recherche et robots de service dans un pays fortement automatisé.",
+    "body": "Robotique industrielle, recherche et robots de service dans un pays fortement automatisé.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "robotique",
+      "robot",
+      "industrie"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Technologie",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "gaming",
+    "legacy_url": "/technologie.html#gaming",
+    "category": "technologie",
+    "title": "Jeu vidéo japonais",
+    "slug": "gaming",
+    "excerpt": "Consoles, arcades et studios japonais ont marqué plusieurs générations de joueurs.",
+    "body": "Consoles, arcades et studios japonais ont marqué plusieurs générations de joueurs.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "jeu video",
+      "gaming",
+      "console",
+      "arcade"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Technologie",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "automobile",
+    "legacy_url": "/technologie.html#automobile",
+    "category": "technologie",
+    "title": "Automobile japonaise",
+    "slug": "automobile",
+    "excerpt": "Fiabilité, hybridation, kei cars et culture automobile : un secteur très influent.",
+    "body": "Fiabilité, hybridation, kei cars et culture automobile : un secteur très influent.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "automobile",
+      "hybride",
+      "kei car"
+    ],
+    "image_path": "/images/tokyo.svg",
+    "image_alt": "Illustration de la rubrique Technologie",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "hiragana",
+    "legacy_url": "/japonais.html#hiragana",
+    "category": "japonais",
+    "title": "Hiragana",
+    "slug": "hiragana",
+    "excerpt": "Le syllabaire de base utilisé notamment pour les mots japonais et les terminaisons grammaticales.",
+    "body": "Le syllabaire de base utilisé notamment pour les mots japonais et les terminaisons grammaticales.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "hiragana",
+      "kana",
+      "japonais"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Japonais",
+    "is_featured": true,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "katakana",
+    "legacy_url": "/japonais.html#katakana",
+    "category": "japonais",
+    "title": "Katakana",
+    "slug": "katakana",
+    "excerpt": "Le syllabaire souvent utilisé pour les emprunts étrangers, onomatopées et emphases.",
+    "body": "Le syllabaire souvent utilisé pour les emprunts étrangers, onomatopées et emphases.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "katakana",
+      "kana",
+      "japonais"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Japonais",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "kanji",
+    "legacy_url": "/japonais.html#kanji",
+    "category": "japonais",
+    "title": "Kanji",
+    "slug": "kanji",
+    "excerpt": "Caractères porteurs de sens, avec plusieurs lectures selon les mots et les contextes.",
+    "body": "Caractères porteurs de sens, avec plusieurs lectures selon les mots et les contextes.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "kanji",
+      "ecriture",
+      "japonais"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Japonais",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  },
+  {
+    "legacy_id": "expressions",
+    "legacy_url": "/japonais.html#expressions",
+    "category": "japonais",
+    "title": "Premières expressions japonaises",
+    "slug": "expressions",
+    "excerpt": "Bonjour, merci, pardon et quelques phrases simples utiles pour débuter.",
+    "body": "Bonjour, merci, pardon et quelques phrases simples utiles pour débuter.\n\nCette fiche reprend le contenu de Japon Explorer V1 et sert de point de départ à une version éditoriale plus détaillée.",
+    "keywords": [
+      "bonjour",
+      "merci",
+      "arigato",
+      "sumimasen"
+    ],
+    "image_path": "/images/hero-japan.svg",
+    "image_alt": "Illustration de la rubrique Japonais",
+    "is_featured": false,
+    "published_at": "2026-08-27 00:00:00"
+  }
+]
