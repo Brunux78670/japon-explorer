@@ -1,0 +1,10 @@
+.worktrees/
+/vendor/
+/node_modules/
+.env
+/public/build/
+/storage/*.key
+
+/dist/site-japon-laravel-source.zip
+
+/bootstrap/cache/*.php

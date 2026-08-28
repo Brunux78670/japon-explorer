@@ -1,0 +1,494 @@
+export const CONTENT_ITEMS = [
+  {
+    "id": "tokyo",
+    "title": "Tokyo : mégalopole aux mille visages",
+    "category": "Voyage",
+    "summary": "Quartiers électriques, sanctuaires, jardins et panoramas : une première lecture de Tokyo.",
+    "keywords": [
+      "tokyo",
+      "shibuya",
+      "shinjuku",
+      "akihabara"
+    ],
+    "url": "voyage.html#tokyo"
+  },
+  {
+    "id": "kyoto",
+    "title": "Kyoto : temples, jardins et ruelles",
+    "category": "Voyage",
+    "summary": "Ancienne capitale impériale, Kyoto concentre temples, machiya et traditions vivantes.",
+    "keywords": [
+      "kyoto",
+      "temples",
+      "gion",
+      "jardins"
+    ],
+    "url": "voyage.html#kyoto"
+  },
+  {
+    "id": "osaka",
+    "title": "Osaka : énergie et cuisine de rue",
+    "category": "Voyage",
+    "summary": "Une ville chaleureuse connue pour Dōtonbori, son château et sa culture gourmande.",
+    "keywords": [
+      "osaka",
+      "dotonbori",
+      "street food"
+    ],
+    "url": "voyage.html#osaka"
+  },
+  {
+    "id": "hokkaido",
+    "title": "Hokkaidō : grands espaces du Nord",
+    "category": "Voyage",
+    "summary": "Nature, neige, volcans, lacs et gastronomie distinguent la grande île du Nord.",
+    "keywords": [
+      "hokkaido",
+      "sapporo",
+      "nature",
+      "neige"
+    ],
+    "url": "voyage.html#hokkaido"
+  },
+  {
+    "id": "okinawa",
+    "title": "Okinawa : archipel subtropical",
+    "category": "Voyage",
+    "summary": "Plages, récifs, culture ryūkyū et histoire singulière au sud du Japon.",
+    "keywords": [
+      "okinawa",
+      "ryukyu",
+      "plage",
+      "naha"
+    ],
+    "url": "voyage.html#okinawa"
+  },
+  {
+    "id": "train",
+    "title": "Se déplacer en train",
+    "category": "Voyage",
+    "summary": "Comprendre Shinkansen, trains urbains, cartes IC et bonnes pratiques en gare.",
+    "keywords": [
+      "train",
+      "shinkansen",
+      "suica",
+      "pasmo"
+    ],
+    "url": "voyage.html#transport"
+  },
+  {
+    "id": "manga",
+    "title": "Comprendre le manga",
+    "category": "Manga & Anime",
+    "summary": "Formats, publication, lecture et vocabulaire de base pour découvrir le manga japonais.",
+    "keywords": [
+      "manga",
+      "tankobon",
+      "mangaka"
+    ],
+    "url": "manga-anime.html#manga"
+  },
+  {
+    "id": "anime",
+    "title": "Comprendre l’anime",
+    "category": "Manga & Anime",
+    "summary": "Séries TV, films, OVA et studios : les grands repères de l’animation japonaise.",
+    "keywords": [
+      "anime",
+      "animation",
+      "studio"
+    ],
+    "url": "manga-anime.html#anime"
+  },
+  {
+    "id": "shonen",
+    "title": "Shōnen",
+    "category": "Manga & Anime",
+    "summary": "Une catégorie éditoriale souvent tournée vers l’aventure, l’amitié et le dépassement de soi.",
+    "keywords": [
+      "shonen",
+      "aventure",
+      "manga"
+    ],
+    "url": "manga-anime.html#demographies"
+  },
+  {
+    "id": "shojo",
+    "title": "Shōjo",
+    "category": "Manga & Anime",
+    "summary": "Une démographie éditoriale aux genres variés, historiquement destinée aux adolescentes.",
+    "keywords": [
+      "shojo",
+      "romance",
+      "manga"
+    ],
+    "url": "manga-anime.html#demographies"
+  },
+  {
+    "id": "seinen",
+    "title": "Seinen",
+    "category": "Manga & Anime",
+    "summary": "Mangas publiés dans des magazines visant principalement un lectorat masculin adulte.",
+    "keywords": [
+      "seinen",
+      "adulte",
+      "manga"
+    ],
+    "url": "manga-anime.html#demographies"
+  },
+  {
+    "id": "josei",
+    "title": "Josei",
+    "category": "Manga & Anime",
+    "summary": "Publications visant principalement un lectorat féminin adulte, avec des thèmes très divers.",
+    "keywords": [
+      "josei",
+      "adulte",
+      "manga"
+    ],
+    "url": "manga-anime.html#demographies"
+  },
+  {
+    "id": "mecha",
+    "title": "Mecha",
+    "category": "Manga & Anime",
+    "summary": "Robots pilotés, science-fiction et récits politiques : un pan majeur de la pop culture japonaise.",
+    "keywords": [
+      "mecha",
+      "robot",
+      "science-fiction"
+    ],
+    "url": "manga-anime.html#genres"
+  },
+  {
+    "id": "iyashikei",
+    "title": "Iyashikei",
+    "category": "Manga & Anime",
+    "summary": "Des œuvres contemplatives centrées sur le quotidien, la nature et l’apaisement.",
+    "keywords": [
+      "iyashikei",
+      "slice of life",
+      "calme"
+    ],
+    "url": "manga-anime.html#genres"
+  },
+  {
+    "id": "shinto",
+    "title": "Shintō",
+    "category": "Culture",
+    "summary": "Repères sur les sanctuaires, kami, torii et pratiques du shintō au Japon.",
+    "keywords": [
+      "shinto",
+      "kami",
+      "sanctuaire",
+      "torii"
+    ],
+    "url": "culture.html#spiritualites"
+  },
+  {
+    "id": "bouddhisme",
+    "title": "Bouddhisme japonais",
+    "category": "Culture",
+    "summary": "Écoles, temples et pratiques qui ont profondément façonné l’histoire culturelle japonaise.",
+    "keywords": [
+      "bouddhisme",
+      "temple",
+      "zen"
+    ],
+    "url": "culture.html#spiritualites"
+  },
+  {
+    "id": "matsuri",
+    "title": "Matsuri : fêtes locales",
+    "category": "Culture",
+    "summary": "Processions, mikoshi, stands et traditions saisonnières rythment les communautés.",
+    "keywords": [
+      "matsuri",
+      "festival",
+      "mikoshi"
+    ],
+    "url": "culture.html#traditions"
+  },
+  {
+    "id": "onsen",
+    "title": "Onsen : bains thermaux",
+    "category": "Culture",
+    "summary": "Étiquette, nudité, tatouages et gestes essentiels pour profiter des sources chaudes.",
+    "keywords": [
+      "onsen",
+      "bain",
+      "etiquette"
+    ],
+    "url": "culture.html#etiquette"
+  },
+  {
+    "id": "tea",
+    "title": "Cérémonie du thé",
+    "category": "Culture",
+    "summary": "Le chanoyu associe geste, esthétique, hospitalité et attention à l’instant.",
+    "keywords": [
+      "the",
+      "matcha",
+      "chanoyu"
+    ],
+    "url": "culture.html#arts"
+  },
+  {
+    "id": "kimono",
+    "title": "Kimono et yukata",
+    "category": "Culture",
+    "summary": "Deux vêtements emblématiques, avec usages, saisons et niveaux de formalité différents.",
+    "keywords": [
+      "kimono",
+      "yukata",
+      "mode"
+    ],
+    "url": "culture.html#arts"
+  },
+  {
+    "id": "ramen",
+    "title": "Ramen",
+    "category": "Cuisine",
+    "summary": "Bouillon, tare, nouilles et garnitures : un plat décliné en nombreuses écoles régionales.",
+    "keywords": [
+      "ramen",
+      "nouilles",
+      "cuisine"
+    ],
+    "url": "cuisine.html#ramen"
+  },
+  {
+    "id": "sushi",
+    "title": "Sushi",
+    "category": "Cuisine",
+    "summary": "Nigiri, maki, chirashi : quelques repères pour comprendre ce vaste univers culinaire.",
+    "keywords": [
+      "sushi",
+      "nigiri",
+      "maki"
+    ],
+    "url": "cuisine.html#sushi"
+  },
+  {
+    "id": "okonomiyaki",
+    "title": "Okonomiyaki",
+    "category": "Cuisine",
+    "summary": "Galette salée conviviale, notamment associée à Osaka et Hiroshima.",
+    "keywords": [
+      "okonomiyaki",
+      "osaka",
+      "hiroshima"
+    ],
+    "url": "cuisine.html#okonomiyaki"
+  },
+  {
+    "id": "takoyaki",
+    "title": "Takoyaki",
+    "category": "Cuisine",
+    "summary": "Bouchées rondes à base de pâte et de poulpe, icône de la cuisine de rue d’Osaka.",
+    "keywords": [
+      "takoyaki",
+      "street food",
+      "osaka"
+    ],
+    "url": "cuisine.html#takoyaki"
+  },
+  {
+    "id": "wagashi",
+    "title": "Wagashi",
+    "category": "Cuisine",
+    "summary": "Pâtisseries traditionnelles inspirées par les saisons, souvent servies avec le thé.",
+    "keywords": [
+      "wagashi",
+      "dessert",
+      "the"
+    ],
+    "url": "cuisine.html#wagashi"
+  },
+  {
+    "id": "matcha",
+    "title": "Matcha",
+    "category": "Cuisine",
+    "summary": "Thé vert moulu utilisé dans le chanoyu mais aussi dans de nombreux desserts modernes.",
+    "keywords": [
+      "matcha",
+      "the vert",
+      "boisson"
+    ],
+    "url": "cuisine.html#matcha"
+  },
+  {
+    "id": "jomon",
+    "title": "Période Jōmon",
+    "category": "Histoire",
+    "summary": "Des communautés de chasseurs-cueilleurs et une céramique parmi les plus anciennes du monde.",
+    "keywords": [
+      "jomon",
+      "prehistoire",
+      "ceramique"
+    ],
+    "url": "histoire.html#jomon"
+  },
+  {
+    "id": "heian",
+    "title": "Époque de Heian",
+    "category": "Histoire",
+    "summary": "Kyoto impériale, littérature de cour et développement d’une culture aristocratique raffinée.",
+    "keywords": [
+      "heian",
+      "kyoto",
+      "genji"
+    ],
+    "url": "histoire.html#heian"
+  },
+  {
+    "id": "samurai",
+    "title": "Samouraïs et shogunats",
+    "category": "Histoire",
+    "summary": "Émergence de la classe guerrière et gouvernements militaires du Japon médiéval.",
+    "keywords": [
+      "samourai",
+      "shogun",
+      "bushi"
+    ],
+    "url": "histoire.html#samurai"
+  },
+  {
+    "id": "edo",
+    "title": "Époque d’Edo",
+    "category": "Histoire",
+    "summary": "Paix Tokugawa, croissance urbaine, ukiyo-e et culture populaire florissante.",
+    "keywords": [
+      "edo",
+      "tokugawa",
+      "ukiyo-e"
+    ],
+    "url": "histoire.html#edo"
+  },
+  {
+    "id": "meiji",
+    "title": "Restauration de Meiji",
+    "category": "Histoire",
+    "summary": "Modernisation rapide, industrialisation et transformation des institutions à partir de 1868.",
+    "keywords": [
+      "meiji",
+      "1868",
+      "modernisation"
+    ],
+    "url": "histoire.html#meiji"
+  },
+  {
+    "id": "contemporain",
+    "title": "Japon contemporain",
+    "category": "Histoire",
+    "summary": "Reconstruction d’après-guerre, haute croissance puis transformations sociales récentes.",
+    "keywords": [
+      "apres-guerre",
+      "croissance",
+      "contemporain"
+    ],
+    "url": "histoire.html#contemporain"
+  },
+  {
+    "id": "shinkansen",
+    "title": "Shinkansen",
+    "category": "Technologie",
+    "summary": "Le réseau à grande vitesse japonais est connu pour sa fréquence, sa sécurité et sa ponctualité.",
+    "keywords": [
+      "shinkansen",
+      "train",
+      "transport"
+    ],
+    "url": "technologie.html#shinkansen"
+  },
+  {
+    "id": "robotique",
+    "title": "Robotique japonaise",
+    "category": "Technologie",
+    "summary": "Robotique industrielle, recherche et robots de service dans un pays fortement automatisé.",
+    "keywords": [
+      "robotique",
+      "robot",
+      "industrie"
+    ],
+    "url": "technologie.html#robotique"
+  },
+  {
+    "id": "gaming",
+    "title": "Jeu vidéo japonais",
+    "category": "Technologie",
+    "summary": "Consoles, arcades et studios japonais ont marqué plusieurs générations de joueurs.",
+    "keywords": [
+      "jeu video",
+      "gaming",
+      "console",
+      "arcade"
+    ],
+    "url": "technologie.html#gaming"
+  },
+  {
+    "id": "automobile",
+    "title": "Automobile japonaise",
+    "category": "Technologie",
+    "summary": "Fiabilité, hybridation, kei cars et culture automobile : un secteur très influent.",
+    "keywords": [
+      "automobile",
+      "hybride",
+      "kei car"
+    ],
+    "url": "technologie.html#automobile"
+  },
+  {
+    "id": "hiragana",
+    "title": "Hiragana",
+    "category": "Japonais",
+    "summary": "Le syllabaire de base utilisé notamment pour les mots japonais et les terminaisons grammaticales.",
+    "keywords": [
+      "hiragana",
+      "kana",
+      "japonais"
+    ],
+    "url": "japonais.html#hiragana"
+  },
+  {
+    "id": "katakana",
+    "title": "Katakana",
+    "category": "Japonais",
+    "summary": "Le syllabaire souvent utilisé pour les emprunts étrangers, onomatopées et emphases.",
+    "keywords": [
+      "katakana",
+      "kana",
+      "japonais"
+    ],
+    "url": "japonais.html#katakana"
+  },
+  {
+    "id": "kanji",
+    "title": "Kanji",
+    "category": "Japonais",
+    "summary": "Caractères porteurs de sens, avec plusieurs lectures selon les mots et les contextes.",
+    "keywords": [
+      "kanji",
+      "ecriture",
+      "japonais"
+    ],
+    "url": "japonais.html#kanji"
+  },
+  {
+    "id": "expressions",
+    "title": "Premières expressions japonaises",
+    "category": "Japonais",
+    "summary": "Bonjour, merci, pardon et quelques phrases simples utiles pour débuter.",
+    "keywords": [
+      "bonjour",
+      "merci",
+      "arigato",
+      "sumimasen"
+    ],
+    "url": "japonais.html#expressions"
+  }
+];
+
+export function getContentById(id) {
+  return CONTENT_ITEMS.find((item) => item.id === id);
+}

@@ -1,0 +1,3 @@
+<x-layouts.app title="Mentions légales — Japon Explorer" description="Mentions légales de Japon Explorer.">
+    <section class="mx-auto max-w-3xl px-4 py-16 sm:px-6 lg:px-8"><p class="eyebrow">Informations</p><h1 class="mt-3 font-display text-4xl font-black text-white">Mentions légales</h1><div class="prose-japan mt-8"><h2>Éditeur</h2><p>Japon Explorer est un projet éditorial de démonstration. Les informations d’éditeur, d’hébergeur et de contact devront être complétées avant une mise en ligne publique.</p><h2>Contenu</h2><p>Les textes sont fournis à titre informatif et pédagogique. Les marques et œuvres citées appartiennent à leurs ayants droit respectifs.</p></div></section>
+</x-layouts.app>
